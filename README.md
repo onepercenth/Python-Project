@@ -97,3 +97,21 @@ We recommend the following:
 5. Brand-Level Promotions:
    - Promote Toyota, Ford, and Chevrolet heavily — their popularity means faster sales turnover.
    - Consider extended warranty or service packages for these brands to boost sales volume.
+6. Data-Driven Pricing:
+   - Implement a pricing model based on mileage, brand, and color popularity to optimize profit while staying competitive.
+7. Market Research Extension:
+   - Regularly monitor customer preferences and competitor pricing to keep the inventory aligned with market demand.
+### Limitations
+
+A limitation in data analysis reporting refers to any factor that restricts, weakens, or challenges the accuracy, scope, or generalizability of the analysis results.
+
+While the analysis provided key insights into car pricing and brand performance, limitations such as missing mileage data and lack of customer purchase history may have affected the completeness of the conclusions. Future analysis should aim to include these data points for a more comprehensive overview.
+### References
+
+[Car Dataset](https://docs.google.com/spreadsheets/d/148gzCAxQno4wlIj_tzgUIyDTG8y4ifRr/edit?usp=sharing&ouid=107969485968939728677&rtpof=true&sd=true)
+
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Results](#results)
+- [Recommendation](#recommendation)
